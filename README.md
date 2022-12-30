@@ -1,5 +1,5 @@
 # Algorithms-Advanced-course
-This repository contains tasks from "C# Advanced" course.
+This repository contains tasks from "C# Advanced" course
 
 
 ## Course Introduction
